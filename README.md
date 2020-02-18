@@ -1,2 +1,3 @@
 # hello-world
-Just a description
+
+Hi, this is just a test of how github works!
